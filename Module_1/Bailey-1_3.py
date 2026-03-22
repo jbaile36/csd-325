@@ -4,7 +4,7 @@
 #Where it prompts that there is no more beer and more should be bought.
 
 #*Note* I did not want the user to be able to enter an absurdly large
-#number, and allow the program to run idenfinitely, so I added input
+#number and allow the program to run idenfinitely, so I added input
 #sanitation to limit input to intergers between 1 and 99.
 
 #Count function.
