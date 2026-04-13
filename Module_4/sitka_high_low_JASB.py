@@ -1,3 +1,9 @@
+# Joshua Bailey 4/12/2026 Module 4 Assignment 4_2 CSD 325
+# This is a brownfield development, expanding on the original
+# sitka_highs.py program to include low temperatures and 
+# a menu for the user to select which data to plot.
+
+
 import csv
 import sys
 from datetime import datetime
